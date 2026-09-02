@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameInput" type="id" />
+    <item name="emailInput" type="id" />
+    <item name="ageInput" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="resultSection" type="id" />
+    <item name="clearButton" type="id" />
+</resources>
